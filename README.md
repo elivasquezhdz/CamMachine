@@ -9,8 +9,6 @@ Check out the live version:
 
 To use run: start a local server and local folder
 
-(it needs Flask)
-
 This is the map of the sounds:
 
     rr : Ride
